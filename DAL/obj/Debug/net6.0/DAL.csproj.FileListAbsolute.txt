@@ -1,0 +1,14 @@
+Z:\group1\תלמידות\אוריין אוחיון\WebAPI\Csharp\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\group1\תלמידות\אוריין אוחיון\WebAPI\Csharp\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\group1\תלמידות\אוריין אוחיון\WebAPI\Csharp\DAL\bin\Debug\net6.0\DAL.dll
+Z:\group1\תלמידות\אוריין אוחיון\WebAPI\Csharp\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\group1\תלמידות\אוריין אוחיון\WebAPI\Csharp\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\group1\תלמידות\אוריין אוחיון\WebAPI\Csharp\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\group1\תלמידות\אוריין אוחיון\WebAPI\Csharp\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\group1\תלמידות\אוריין אוחיון\WebAPI\Csharp\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\group1\תלמידות\אוריין אוחיון\WebAPI\Csharp\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\group1\תלמידות\אוריין אוחיון\WebAPI\Csharp\DAL\obj\Debug\net6.0\DAL.dll
+Z:\group1\תלמידות\אוריין אוחיון\WebAPI\Csharp\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\group1\תלמידות\אוריין אוחיון\WebAPI\Csharp\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\group1\תלמידות\אוריין אוחיון\WebAPI\Csharp\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\group1\תלמידות\אוריין אוחיון\WebAPI\Csharp\DAL\obj\Debug\net6.0\ref\DAL.dll
